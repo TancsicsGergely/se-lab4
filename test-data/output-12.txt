@@ -1,0 +1,2 @@
+SUCCESS  # Init
+SUCCESS  # Csak az első tárolóról lőtt

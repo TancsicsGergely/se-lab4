@@ -1,0 +1,4 @@
+# A hajóban mindkét tárolóban van torpedó
+GT4500,5,0,5,0
+TORPEDO,SINGLE  # Elsőként az elsődleges tárolóról kell tüzelnie
+TORPEDO,SINGLE  # Másodjára a másodlagos tárolóról kell tüzelnie

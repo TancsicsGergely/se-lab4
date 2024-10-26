@@ -1,0 +1,2 @@
+SUCCESS  # Init
+SUCCESS  # Elsődleges tárolóról sikeres kilövés

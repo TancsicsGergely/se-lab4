@@ -1,0 +1,3 @@
+SUCCESS   # Init
+SUCCESS  # Első lövés az elsődleges tárolóról
+SUCCESS  # Második lövés a másodlagos tárolóról

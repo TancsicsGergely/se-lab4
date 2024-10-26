@@ -1,0 +1,2 @@
+SUCCESS  # Init
+SUCCESS  # Mindkét tárolóról lőtt
