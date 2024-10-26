@@ -1,0 +1,4 @@
+# Csak az elsődleges tárolóban van torpedó
+GT4500,5,0,0,0
+TORPEDO,SINGLE  # Elsődleges tárolóról kell tüzelnie
+TORPEDO,SINGLE  # Elsődleges tárolóról kell tüzelnie, mert a másodlagos üres

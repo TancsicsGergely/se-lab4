@@ -1,0 +1,2 @@
+SUCCESS  # Sikeresen létrehozta a tárolót
+FAIL  # Nincs kilövés

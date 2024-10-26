@@ -1,0 +1,3 @@
+SUCCESS  # Init
+SUCCESS  # Elsődleges tárolóról sikeres kilövés
+SUCCESS  # Másodlagos üres, így ismét az elsődleges tárolóról lő

@@ -1,0 +1,2 @@
+SUCCESS  # Sikeresen létrehozta a tárolót
+SUCCESS  # Csak az első tárolóról lőtt

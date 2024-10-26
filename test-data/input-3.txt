@@ -1,0 +1,3 @@
+# Mindkét tároló üres, nincs torpedó
+GT4500,0,0,0,0
+TORPEDO,SINGLE  # Nem tud tüzelni, mivel nincs torpedó

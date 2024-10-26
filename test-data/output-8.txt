@@ -1,0 +1,2 @@
+SUCCESS  # Init
+SUCCESS  # Másodlagos tárolóról sikeres lövés
