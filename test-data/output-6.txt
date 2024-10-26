@@ -1,0 +1,2 @@
+SUCCESS  # Sikeresen létrehozta a tárolót
+FAIL  # Az első tároló tüzelése hibás, nem vált át másik tárolóra

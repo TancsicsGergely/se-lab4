@@ -1,0 +1,3 @@
+# Mindkét tárolóban van torpedó, de az első tároló tüzelése hibás
+GT4500,5,1,5,0
+TORPEDO,SINGLE  # Az első tárolóról kellene lőnie, de hibás

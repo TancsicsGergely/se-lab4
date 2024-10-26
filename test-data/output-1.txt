@@ -1,0 +1,3 @@
+SUCCESS  # Sikeresen létrehozta a tárolót
+SUCCESS  # Első lövés az elsődleges tárolóról
+SUCCESS  # Második lövés a másodlagos tárolóról

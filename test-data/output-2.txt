@@ -1,0 +1,2 @@
+SUCCESS  # Sikeresen létrehozta a tárolót
+SUCCESS  # Első tárolóról sikeres kilövés
